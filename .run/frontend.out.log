@@ -1,0 +1,90 @@
+
+> carton-suggester-frontend@0.1.0 dev
+> vite --port 5173 --strictPort
+
+
+  [32m[1mVITE[22m v5.4.11[39m  [2mready in [0m[1m3549[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m下午3:40:04[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m下午3:40:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午3:40:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午3:40:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午3:40:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ItemManager.jsx[22m
+[2m下午3:41:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ItemManager.jsx[22m
+[2m下午3:41:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ItemManager.jsx[22m
+[2m下午3:41:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ItemManager.jsx[22m
+[2m下午3:41:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午3:42:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午3:42:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午3:42:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午3:42:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResultPanel.jsx[22m
+[2m下午3:43:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResultPanel.jsx[22m
+[2m下午3:43:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResultPanel.jsx[22m
+[2m下午3:43:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResultPanel.jsx[22m
+[2m下午3:44:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m下午4:05:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ItemManager.jsx[22m
+[2m下午4:05:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午4:06:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午4:06:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午4:06:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午4:06:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午4:06:45[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午4:06:45[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午4:06:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午4:06:57[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午4:06:57[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午4:07:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m下午4:15:07[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/CartonViewer.jsx[22m
+[2m下午4:23:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ItemManager.jsx[22m
+[2m下午4:24:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午4:24:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午4:24:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午4:24:45[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午4:24:45[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午4:25:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午4:25:03[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午4:25:03[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午4:25:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m下午4:42:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午4:42:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午4:43:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午4:43:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午4:43:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午4:43:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午4:44:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResultPanel.jsx[22m
+[2m下午4:44:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResultPanel.jsx[22m
+[2m下午4:44:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午4:44:44[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午4:44:44[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午4:44:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午4:44:59[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午4:44:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午4:45:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m下午5:29:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ItemManager.jsx[22m
+[2m下午5:31:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午5:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午5:32:00[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午5:32:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午5:32:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午5:32:17[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午5:32:17[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午5:32:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m下午5:50:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ItemManager.jsx, /src/components/CartonManager.jsx[22m
+[2m下午5:51:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午5:51:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午5:51:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午5:52:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午5:52:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m下午5:52:36[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/OrderBuilder.jsx[22m
+[2m下午5:52:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/NavBar.jsx[22m
+[2m下午5:53:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/NavBar.jsx[22m
+[2m下午5:53:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午5:53:22[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午5:53:22[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午5:53:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n.jsx[22m
+[2m下午5:53:38[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n.jsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m下午5:53:38[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/i18n.jsx[22m
+[2m下午5:53:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
