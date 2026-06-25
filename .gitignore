@@ -10,7 +10,7 @@ wheels/
 .venv
 
 # Service runtime (pids + logs) and database
-#.run/
+.run/
 #carton.db
 
 # Node
